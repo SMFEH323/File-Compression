@@ -1,7 +1,7 @@
 /**
  * Constants used by the Huffman coding compression and decompression.
  * 
- * @author Stina Bridgeman
+ * @author Sayf Elhawary
  */
 public class HuffConstants {
 
