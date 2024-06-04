@@ -12,10 +12,20 @@ This project implements Huffman coding for file compression and decompression in
 - `WeightedCodingTreeComparator.java`: Comparator for prioritizing tree nodes based on weight during the Huffman tree construction.
 
 ## Installation
-No installation is necessary. Ensure you have Java installed on your machine to compile and run the program.
+To install this project, clone the repository using the following command:
+```
+git clone https://github.com/SMFEH323/file-compression.git
+```
+Then, navigate to the directory containing the project files.
 
 ## Usage
 To run Huffman encoding and decoding:
 1. Compile the Java files using `javac HuffMain.java`.
 2. Run the compiled class with:
    (https://github.com/SMFEH323/File-Compression)
+
+## Contributing
+Contributions are welcome! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
+
+## Contact
+For any inquiries, please reach out via email at elhawaryseif@gmail.com.
